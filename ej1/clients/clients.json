@@ -1,0 +1,11 @@
+{
+    "clientes" : [
+        {
+            "user" : "jose",
+        "category" : 5,
+        "address" : "san lorenzo"
+
+        }
+    ]
+
+}
